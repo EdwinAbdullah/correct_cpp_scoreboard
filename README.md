@@ -8,7 +8,7 @@ master|[![Build Status](https://travis-ci.org/EdwinAbdullah/correct_cpp_scoreboa
 
 ## Goal
 
- * Experience a light version of [how this course works](https://github.com/EdwinAbdullah/correct_cpp/blob/master/doc/how_this_course_works.md)
+ * Experience a light version of [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/how_this_course_works.md)
 
 ## Prerequisites
 
@@ -38,14 +38,14 @@ Chapter|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)|[![Codecov logo
 :construction: [hello_qt](https://github.com/EdwinAbdullah/correct_cpp_hello_qt)|[![Build Status](https://travis-ci.org/EdwinAbdullah/correct_cpp_hello_qt.svg?branch=master)](https://travis-ci.org/EdwinAbdullah/correct_cpp_hello_qt) | [![codecov.io](https://codecov.io/github/EdwinAbdullah/correct_cpp_hello_qt/coverage.svg?branch=master)](https://codecov.io/github/EdwinAbdullah/correct_cpp_hello_qt?branch=master)
 :construction: [to_morse](https://github.com/EdwinAbdullah/correct_cpp_to_morse)|[![Build Status](https://travis-ci.org/EdwinAbdullah/correct_cpp_to_morse.svg?branch=master)](https://travis-ci.org/EdwinAbdullah/correct_cpp_to_morse) | [![codecov.io](https://codecov.io/github/EdwinAbdullah/correct_cpp_to_morse/coverage.svg?branch=master)](https://codecov.io/github/EdwinAbdullah/correct_cpp_to_morse?branch=master)
 
-This is [how this course works](https://github.com/EdwinAbdullah/correct_cpp/blob/master/doc/how_this_course_works.md):
+This is [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/how_this_course_works.md):
 
   1. Login to [GitHub](https://github.com/)
-  2. Fork this repository. See [fork a chapter](https://github.com/EdwinAbdullah/correct_cpp/blob/master/doc/fork_a_chapter.md) for help
-  3. Activate Travis CI for your GitHub. See [activate](https://github.com/EdwinAbdullah/correct_cpp/blob/master/doc/activate.md) for help 
-  4. Clone your fork. See [clone your fork](https://github.com/EdwinAbdullah/correct_cpp/blob/master/doc/clone_your_fork.md) for help
+  2. Fork this repository. See [fork a chapter](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/fork_a_chapter.md) for help
+  3. Activate Travis CI for your GitHub. See [activate](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/activate.md) for help 
+  4. Clone your fork. See [clone your fork](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/clone_your_fork.md) for help
   5. On your local code, modify this `README.md` file: replace `EdwinAbdullah/correct_cpp_` by `[your_github_username]/correct_cpp_`
-  6. Push your code. See [push your code](https://github.com/EdwinAbdullah/correct_cpp/blob/master/doc/push_your_code.md) for help
+  6. Push your code. See [push your code](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/push_your_code.md) for help
   7. If you did everything correctly, the build status of your fork will become green. Well done! Else, click on the red build status badge to view the Travis CI log
 
 ## External links
